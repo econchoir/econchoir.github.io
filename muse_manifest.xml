@@ -1,0 +1,160 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ecochorus.html" resolutions="1x,2x" timestamp="1450931961305">
+  <folder name="css">
+    <file name="site_global.css" crc="4175621323"/>
+    <file name="index.css" crc="106971128" ref="index"/>
+    <file name="piano.css" crc="397733190" ref="piano"/>
+    <file name="media.css" crc="149914050" ref="media"/>
+    <file name="cond.css" crc="4032711270" ref="cond"/>
+    <file name="music.css" crc="3959822098" ref="music"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:cond:piano:music:media"/>
+    <file name="museutils.js" crc="275725342" ref="index:cond:piano:music:media"/>
+    <file name="pie.js" crc="3827607177" ref="index:cond:piano:music:media"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:cond:piano:music:media"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:cond:piano:music:media"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:cond:piano:music:media"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:cond:piano:music:media"/>
+    <file name="webpro.js" crc="3883484123" ref="media"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="media"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="media"/>
+    <file name="touchswipe.js" crc="4218319045" ref="media"/>
+  </folder>
+  <folder name="images">
+    <file name="2.png" crc="3797667863" seo="true" ref="index"/>
+    <file name="2_2x.png" crc="314728426" seo="true" ref="index"/>
+    <file name="3.png" crc="282256051" seo="true" ref="index"/>
+    <file name="3_2x.png" crc="4106758557" seo="true" ref="index"/>
+    <file name="1.png" crc="420587591" seo="true" ref="index"/>
+    <file name="1_2x.png" crc="412709607" seo="true" ref="index"/>
+    <file name="2014-u287.png" crc="329769321" ref="index"/>
+    <file name="2014-u287_2x.png" crc="3859307478" ref="index"/>
+    <file name="2011-u297.png" crc="111815002" ref="index"/>
+    <file name="2011-u297_2x.png" crc="4156527557" ref="index"/>
+    <file name="2010-u304.png" crc="89888011" ref="index"/>
+    <file name="2010-u304_2x.png" crc="9794061" ref="index"/>
+    <file name="2006-u308.png" crc="4003901878" ref="index"/>
+    <file name="2006-u308_2x.png" crc="316071538" ref="index"/>
+    <file name="2005-u312.png" crc="3844871609" ref="index"/>
+    <file name="2005-u312_2x.png" crc="79892290" ref="index"/>
+    <file name="2013-u329.png" crc="494997381" ref="index"/>
+    <file name="2013-u329_2x.png" crc="226104975" ref="index"/>
+    <file name="2012-u336.png" crc="4094860202" ref="index"/>
+    <file name="2012-u336_2x.png" crc="4050926889" ref="index"/>
+    <file name="line-u278.png" crc="280445529" ref="index"/>
+    <file name="line-u278_2x.png" crc="4081577" ref="index"/>
+    <file name="img_6125.jpg" crc="480546391" seo="true" ref="index"/>
+    <file name="img_6125_2x.jpg" crc="4115642458" seo="true" ref="index"/>
+    <file name="img_5912.jpg" crc="258726697" seo="true" ref="cond"/>
+    <file name="img_5912_2x.jpg" crc="4104165591" seo="true" ref="cond"/>
+    <file name="p1540336.jpg" crc="3980328962" seo="true" ref="piano"/>
+    <file name="p1540336_2x.jpg" crc="346949000" seo="true" ref="piano"/>
+    <file name="dsc01075.jpg" crc="240351894" seo="true" ref="piano"/>
+    <file name="dsc01075_2x.jpg" crc="3826194433" seo="true" ref="piano"/>
+    <file name="dsc01333.jpg" crc="3957025916" seo="true" ref="music"/>
+    <file name="dsc01333_2x.jpg" crc="196046544" seo="true" ref="music"/>
+    <file name="time.png" crc="4056151487" seo="true" ref="music"/>
+    <file name="time_2x.png" crc="4119946894" seo="true" ref="music"/>
+    <file name="echchorus-8.jpg" crc="4142069521" seo="true" ref="media"/>
+    <file name="blank.gif" crc="4208392903" ref="media"/>
+    <file name="img_6012.jpg" crc="4173226086" seo="true" ref="media"/>
+    <file name="img_6012_2x.jpg" crc="327185618" seo="true" ref="media"/>
+    <file name="img_6155.jpg" crc="3932568626" seo="true" ref="media"/>
+    <file name="img_6155_2x.jpg" crc="444124275" seo="true" ref="media"/>
+    <file name="img_6212.jpg" crc="254798546" seo="true" ref="media"/>
+    <file name="img_6212_2x.jpg" crc="4265617917" seo="true" ref="media"/>
+    <file name="dsc05752.jpg" crc="47246985" seo="true" ref="media"/>
+    <file name="dsc05752_2x.jpg" crc="4074928680" seo="true" ref="media"/>
+    <file name="img_0049.jpg" crc="467580263" seo="true" ref="media"/>
+    <file name="img_0049_2x.jpg" crc="382069838" seo="true" ref="media"/>
+    <file name="img_2707.jpg" crc="3904430704" seo="true" ref="media"/>
+    <file name="img_2707_2x.jpg" crc="491563643" seo="true" ref="media"/>
+    <file name="img_5951.jpg" crc="430111192" seo="true" ref="media"/>
+    <file name="img_5951_2x.jpg" crc="353658726" seo="true" ref="media"/>
+    <file name="img_6265.jpg" crc="292768870" seo="true" ref="media"/>
+    <file name="img_6265_2x.jpg" crc="3806698411" seo="true" ref="media"/>
+    <file name="loading.gif" crc="3815509949" ref="media"/>
+    <file name="dsc00641.jpg" crc="400694511" seo="true" ref="media"/>
+    <file name="dsc00641_2x.jpg" crc="3838204194" seo="true" ref="media"/>
+    <file name="dsc01190.jpg" crc="3830191156" seo="true" ref="media"/>
+    <file name="dsc01190_2x.jpg" crc="63801559" seo="true" ref="media"/>
+    <file name="dsc01210.jpg" crc="136882040" seo="true" ref="media"/>
+    <file name="dsc01210_2x.jpg" crc="265390614" seo="true" ref="media"/>
+    <file name="dsc01313.jpg" crc="3901082971" seo="true" ref="media"/>
+    <file name="dsc01313_2x.jpg" crc="147205421" seo="true" ref="media"/>
+    <file name="echchorus-8_2x.jpg" crc="4109168037" seo="true" ref="media"/>
+    <file name="img_0004.jpg" crc="3798840585" seo="true" ref="media"/>
+    <file name="img_0004_2x.jpg" crc="3837720760" seo="true" ref="media"/>
+    <file name="img_0020.jpg" crc="2763064" seo="true" ref="media"/>
+    <file name="img_0020_2x.jpg" crc="407818071" seo="true" ref="media"/>
+    <file name="img_0057.jpg" crc="4055424425" seo="true" ref="media"/>
+    <file name="img_0057_2x.jpg" crc="3953498123" seo="true" ref="media"/>
+    <file name="img_1368.jpg" crc="104142767" seo="true" ref="media"/>
+    <file name="img_1368_2x.jpg" crc="3878263276" seo="true" ref="media"/>
+    <file name="img_5953.jpg" crc="314962802" seo="true" ref="media"/>
+    <file name="img_5953_2x.jpg" crc="169794694" seo="true" ref="media"/>
+    <file name="img_6010.jpg" crc="275009149" seo="true" ref="media"/>
+    <file name="img_6010_2x.jpg" crc="3975123490" seo="true" ref="media"/>
+    <file name="img_6015.jpg" crc="437382134" seo="true" ref="media"/>
+    <file name="img_6015_2x.jpg" crc="3880225595" seo="true" ref="media"/>
+    <file name="dsc01190-crop-u1108.jpg" crc="4221139341" ref="media"/>
+    <file name="dsc01190-crop-u1108_2x.jpg" crc="4153885255" ref="media"/>
+    <file name="dsc01210-crop-u1117.jpg" crc="504822873" ref="media"/>
+    <file name="dsc01210-crop-u1117_2x.jpg" crc="3836522658" ref="media"/>
+    <file name="2014-07-15 125708-ieu1338-fr.png" crc="3917892024" ref="media"/>
+    <file name="2014-07-15 125708.jpg" crc="4100059565" ref="media"/>
+    <file name="videoplaybutton88x89.png" crc="183251686" seo="true" ref="media"/>
+    <file name="videoplaybutton_2x.png" crc="104038234" seo="true" ref="media"/>
+    <file name="2014-07-15 130728-ieu1357-fr.png" crc="3870259892" ref="media"/>
+    <file name="2014-07-15 130728.jpg" crc="3846233842" ref="media"/>
+    <file name="videoplaybutton.png" crc="309067781" seo="true" ref="media"/>
+    <file name="main line.png" crc="4114633495" seo="true" ref="media"/>
+    <file name="main line_2x.png" crc="3804340825" seo="true" ref="media"/>
+    <file name="dsc01208.jpg" crc="4200348676" seo="true" ref="media"/>
+    <file name="dsc01208_2x.jpg" crc="4017276329" seo="true" ref="media"/>
+    <file name="img_601236x24.jpg" crc="398872155" seo="true" ref="media"/>
+    <file name="img_601236x24_2x.jpg" crc="3942606008" seo="true" ref="media"/>
+    <file name="img_615536x24.jpg" crc="3790476467" seo="true" ref="media"/>
+    <file name="img_615536x24_2x.jpg" crc="486714807" seo="true" ref="media"/>
+    <file name="dsc0064133x25.jpg" crc="4212382802" seo="true" ref="media"/>
+    <file name="dsc0064133x25_2x.jpg" crc="73906310" seo="true" ref="media"/>
+    <file name="dsc0131333x25.jpg" crc="4273025434" seo="true" ref="media"/>
+    <file name="dsc0131333x25_2x.jpg" crc="247168512" seo="true" ref="media"/>
+    <file name="dsc0575233x25.jpg" crc="4192672460" seo="true" ref="media"/>
+    <file name="dsc0575233x25_2x.jpg" crc="79200434" seo="true" ref="media"/>
+    <file name="dsc01208-crop-u1397.jpg" crc="4113282468" ref="media"/>
+    <file name="dsc01208-crop-u1397_2x.jpg" crc="3867301930" ref="media"/>
+    <file name="echchorus-833x25.jpg" crc="140192304" seo="true" ref="media"/>
+    <file name="echchorus-833x25_2x.jpg" crc="28082362" seo="true" ref="media"/>
+    <file name="img_000433x25.jpg" crc="4153485425" seo="true" ref="media"/>
+    <file name="img_000433x25_2x.jpg" crc="207219970" seo="true" ref="media"/>
+    <file name="img_002033x25.jpg" crc="89169525" seo="true" ref="media"/>
+    <file name="img_002033x25_2x.jpg" crc="24737034" seo="true" ref="media"/>
+    <file name="img_004933x25.jpg" crc="4265145557" seo="true" ref="media"/>
+    <file name="img_004933x25_2x.jpg" crc="4033205544" seo="true" ref="media"/>
+    <file name="img_005733x25.jpg" crc="375029312" seo="true" ref="media"/>
+    <file name="img_005733x25_2x.jpg" crc="4207535670" seo="true" ref="media"/>
+    <file name="img_136833x25.jpg" crc="3827197468" seo="true" ref="media"/>
+    <file name="img_136833x25_2x.jpg" crc="3855331822" seo="true" ref="media"/>
+    <file name="img_270736x24.jpg" crc="4051407098" seo="true" ref="media"/>
+    <file name="img_270736x24_2x.jpg" crc="318884191" seo="true" ref="media"/>
+    <file name="img_595136x24.jpg" crc="3847876184" seo="true" ref="media"/>
+    <file name="img_595136x24_2x.jpg" crc="4226837224" seo="true" ref="media"/>
+    <file name="img_595336x24.jpg" crc="459196111" seo="true" ref="media"/>
+    <file name="img_595336x24_2x.jpg" crc="268480771" seo="true" ref="media"/>
+    <file name="img_601036x24.jpg" crc="4286898826" seo="true" ref="media"/>
+    <file name="img_601036x24_2x.jpg" crc="4260680055" seo="true" ref="media"/>
+    <file name="img_601536x24.jpg" crc="219879049" seo="true" ref="media"/>
+    <file name="img_601536x24_2x.jpg" crc="4268834953" seo="true" ref="media"/>
+    <file name="img_621236x24.jpg" crc="116799533" seo="true" ref="media"/>
+    <file name="img_621236x24_2x.jpg" crc="417528089" seo="true" ref="media"/>
+    <file name="img_626536x24.jpg" crc="102544152" seo="true" ref="media"/>
+    <file name="img_626536x24_2x.jpg" crc="4115106198" seo="true" ref="media"/>
+    <file name="favicon.ico" crc="177960876" ref="index:cond"/>
+  </folder>
+  <file name="index.html" crc="410550584" seo="true" mt="1450929059158" redirect="true"/>
+  <file name="cond.html" crc="501431884" seo="true" mt="1450931820024" redirect="true"/>
+  <file name="piano.html" crc="3915013160" seo="true" mt="1450931904563" redirect="true"/>
+  <file name="music.html" crc="4048571831" seo="true" mt="1450928876655" redirect="true"/>
+  <file name="media.html" crc="4215994713" seo="true" mt="1450931747158" redirect="true"/>
+</manifest>
